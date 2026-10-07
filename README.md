@@ -1,4 +1,6 @@
 <!-- ===== HEADER ===== -->
+<div align="center">
+
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  $ ssh guest@sonleng.dev                                     │
@@ -8,13 +10,15 @@
 ```
 
 ```
-███████╗ ██████╗ ███╗   ██╗██╗     ███████╗███╗   ██╗ ██████╗
-██╔════╝██╔═══██╗████╗  ██║██║     ██╔════╝████╗  ██║██╔════╝
+███████╗ ██████╗ ███╗   ██╗██╗     ███████╗███╗   ██╗ ██████╗ 
+██╔════╝██╔═══██╗████╗  ██║██║     ██╔════╝████╗  ██║██╔════╝ 
 ███████╗██║   ██║██╔██╗ ██║██║     █████╗  ██╔██╗ ██║██║  ███╗
 ╚════██║██║   ██║██║╚██╗██║██║     ██╔══╝  ██║╚██╗██║██║   ██║
 ███████║╚██████╔╝██║ ╚████║███████╗███████╗██║ ╚████║╚██████╔╝
-╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
+╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
 ```
+
+</div>
 
 <p align="center">
   <code>FULL.STACK</code> · <code>REACT.TS</code> · <code>SPRING.BOOT</code> · <code>IT.ENGINEERING @ RUPP</code> · <code>PHNOM.PENH.KH</code>
@@ -33,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=22c55e&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=NuonVannsonleng&label=PROFILE+VIEWS&color=22c55e&style=for-the-badge" />
 </p>
 
 ---
@@ -79,12 +83,12 @@ now:       [Android/Kotlin, Machine Learning]
 ### `$ git log --stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NuonVannsonleng&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuonVannsonleng&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuonVannsonleng&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
 </p>
 
 ---
