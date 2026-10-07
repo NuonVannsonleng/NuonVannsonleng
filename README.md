@@ -42,15 +42,18 @@
 
 ---
 
-### `$ whoami`
+### `$ neofetch`
 
-```yaml
-name:      Nuon Vannsonleng  # aka Sonleng / Leng
-role:      Full-Stack Web Developer
-studying:  IT Engineering @ Royal University of Phnom Penh
-location:  Phnom Penh, Cambodia
-focus:     [web apps, system design, algorithms]
-now:       [Android/Kotlin, Machine Learning]
+```
+   ┌─────────────┐   sonleng@rupp
+   │ >_          │   ────────────────────────────────────
+   │  sonleng    │   Name      Nuon Vannsonleng (Leng)
+   │  ▓▓▓▓▓░░░   │   Role      Full-Stack Web Developer
+   └──────┬──────┘   Uni       IT Engineering @ RUPP
+      ────┴────      Host      Phnom Penh, Cambodia
+                     Stack     React · TypeScript · Spring Boot
+                     Focus     web apps · system design · algorithms
+                     Learning  Android/Kotlin · Machine Learning
 ```
 
 ### `$ ls ~/stack`
@@ -70,15 +73,19 @@ now:       [Android/Kotlin, Machine Learning]
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### `$ cat projects.log`
+### `$ tail -f projects.log`
 
+```diff
+@@ ~/projects  ·  5 tracked  ·  last sync: today @@
+
++ [LIVE] RUPPER Connect ...... class management platform for RUPP
+! [WIP ] RyzzQuizz ........... real-time Kahoot-style quiz app · WebSockets + cloud
+! [WIP ] Meh Rean ............ course & lecturer hub + Telegram timetable bot
++ [DONE] Smart Traffic Mgmt .. Phnom Penh road network sim · custom data structures
++ [DONE] AI Study Assistant .. Spring Boot REST API + Swagger + MySQL
 ```
-[LIVE] RUPPER Connect ........ class management platform for RUPP
-[DEV ] RyzzQuizz ............. real-time Kahoot-style quiz app (WebSockets + cloud)
-[DEV ] Meh Rean .............. course & lecturer hub + Telegram timetable bot
-[DONE] Smart Traffic Mgmt .... Phnom Penh road network sim, custom data structures
-[DONE] AI Study Assistant API  Spring Boot REST API + Swagger + MySQL
-```
+
+<sub>`+` shipped · `!` in progress</sub>
 
 ### `$ git log --stats`
 
